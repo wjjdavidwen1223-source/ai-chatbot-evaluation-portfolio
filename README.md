@@ -2,6 +2,10 @@
 
 This repository contains structured evaluation case studies analyzing AI-generated Chinese language outputs.
 
+## About Me
+
+I am a native Chinese speaker with experience evaluating AI-generated language outputs for accuracy, naturalness, and pedagogical quality.
+
 The focus is on evaluating:
 - linguistic accuracy
 - naturalness and fluency
