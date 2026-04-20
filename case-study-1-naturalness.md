@@ -11,7 +11,7 @@ Evaluate whether the sentence demonstrates natural, fluent, and concise Chinese 
 ## Issue Identified
 - Redundant phrasing (“让我觉得很有意思”)
 - Repetition in “新的朋友们”
-- Slightly unnatural sentence structure
+- Sentence structure influenced by redundant phrasing and slight English-like expression
 
 ## Improved Version
 我很喜欢学习中文，因为它很有意思，还能让我认识很多新朋友。
