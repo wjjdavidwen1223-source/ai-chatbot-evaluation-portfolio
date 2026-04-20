@@ -6,6 +6,8 @@ Evaluate whether the sentence demonstrates natural, fluent, and concise Chinese 
 ## Original Sentence
 我很喜欢学习中文，因为它让我觉得很有意思而且可以让我认识很多新的朋友们。
 
+**Error Type:** Naturalness; Redundancy
+
 ## Issue Identified
 - Redundant phrasing (“让我觉得很有意思”)
 - Repetition in “新的朋友们”
